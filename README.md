@@ -1,2 +1,2 @@
 # SnakeGame
-Simple And Easy Snake Game made with Python
+Simple And Easy Snake Game using Turtle
